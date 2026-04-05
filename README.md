@@ -55,7 +55,7 @@ http://127.0.0.1:8000/docs
 ```
 
 ## IV. Video demo
-<video width="100%" controls>
-  <source src="demo_api.mp4" type="video/mp4">
-  Video demo api 
-</video>
+
+https://github.com/user-attachments/assets/52e486a1-f38d-435b-9c81-34db86692985
+
+
